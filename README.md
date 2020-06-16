@@ -7,7 +7,7 @@ Perturbations generated through spatial transformation could result in large L_p
 We visualize the spatial transformation based perturbation for different examples and show that our technique
 can produce realistic adversarial examples with smooth image deformation.
 Finally, we visualize the attention of deep networks with different types of adversarial examples to better understand how these examples are interpreted.
-![overview](demos/overview.PNG)
+![overview](demos/overview.png)
 ### Requirment
 ```
 pytorch>=1.2.1
@@ -31,6 +31,6 @@ python stAdv.py --save_path debug --ld_tv 50 --ld_adv 0.05
 ```
 ## Results
 ![result1](demos/fig1.PNG)
-![result2](demos/fig2.PNG)
+![result2](demos/fig2.png)
 ## License
 MIT License
