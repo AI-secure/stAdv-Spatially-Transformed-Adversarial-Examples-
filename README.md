@@ -15,7 +15,7 @@ scipy
 ```
 
 ### Dowload dataset
-Note that it might take a while to download/perform attack on the whole ImageNet dataset. It's recommended only use a small subset of it to conduct the experiment.
+Note that it might take a while to download/perform attack on the whole ImageNet dataset. It's recommended to only use a small subset of it to conduct the experiment.
 
 ```bash
 sh data/dowload_data.sh
